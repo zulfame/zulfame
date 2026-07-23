@@ -156,11 +156,11 @@ fun_fact:    "I run a creative studio by day and ship clean code by night."
 
 <div align="center">
 
-<a href="https://github.com/zulfame/project-one">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zulfame&repo=project-one&hide_border=true&title_color=e5e5e5&icon_color=8b8b8b&text_color=9a9a9a&bg_color=0d0d0d" alt="project-one" />
+<a href="https://github.com/zulfame/nexus-panel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zulfame&repo=nexus-panel&hide_border=true&title_color=e5e5e5&icon_color=8b8b8b&text_color=9a9a9a&bg_color=0d0d0d" alt="nexus-panel" />
 </a>
-<a href="https://github.com/zulfame/project-two">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zulfame&repo=project-two&hide_border=true&title_color=e5e5e5&icon_color=8b8b8b&text_color=9a9a9a&bg_color=0d0d0d" alt="project-two" />
+<a href="https://github.com/zulfame/lottery">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zulfame&repo=lottery&hide_border=true&title_color=e5e5e5&icon_color=8b8b8b&text_color=9a9a9a&bg_color=0d0d0d" alt="lottery" />
 </a>
 
 </div>
