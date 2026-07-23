@@ -6,7 +6,7 @@
 <!-- ░░░ HERO BANNER (animated wave, grayscale gradient) ░░░ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,2,2,2,2&text=Hi%2C%20I'm%20Zulfadli&fontColor=e5e5e5&fontSize=62&fontAlignY=38&desc=Make%20it%20Simple%2C%20but%20Significant&descSize=18&descAlignY=58&descColor=9a9a9a&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0d0d0d&text=Hi%2C%20I'm%20Zulfadli&fontColor=e5e5e5&fontSize=62&fontAlignY=38&desc=Make%20it%20Simple%2C%20but%20Significant&descSize=18&descAlignY=58&descColor=9a9a9a&animation=fadeIn" alt="header" />
 
 <!-- ░░░ TYPING INTRO (interactive typewriter) ░░░ -->
 <a href="https://github.com/zulfame">
@@ -33,7 +33,8 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+---
 
 ## `01` · About Me
 
@@ -154,16 +155,32 @@ fun_fact:    "I run a creative studio by day and ship clean code by night."
 
 ## `06` · Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/zulfame/nexus-panel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zulfame&repo=nexus-panel&hide_border=true&title_color=e5e5e5&icon_color=8b8b8b&text_color=9a9a9a&bg_color=0d0d0d" alt="nexus-panel" />
-</a>
-<a href="https://github.com/zulfame/lottery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zulfame&repo=lottery&hide_border=true&title_color=e5e5e5&icon_color=8b8b8b&text_color=9a9a9a&bg_color=0d0d0d" alt="lottery" />
-</a>
+### ⬡ [nexus-panel](https://github.com/zulfame/nexus-panel)
 
-</div>
+A clean, modular admin dashboard panel — built for speed and simplicity.
+
+![Stars](https://img.shields.io/github/stars/zulfame/nexus-panel?style=flat-square&color=555555&labelColor=1a1a1a&logo=github)
+![Language](https://img.shields.io/github/languages/top/zulfame/nexus-panel?style=flat-square&color=555555&labelColor=1a1a1a)
+![Last commit](https://img.shields.io/github/last-commit/zulfame/nexus-panel?style=flat-square&color=555555&labelColor=1a1a1a)
+
+</td>
+<td width="50%" valign="top">
+
+### ⬡ [lottery](https://github.com/zulfame/lottery)
+
+A lightweight lottery / random draw application with a minimal interface.
+
+![Stars](https://img.shields.io/github/stars/zulfame/lottery?style=flat-square&color=555555&labelColor=1a1a1a&logo=github)
+![Language](https://img.shields.io/github/languages/top/zulfame/lottery?style=flat-square&color=555555&labelColor=1a1a1a)
+![Last commit](https://img.shields.io/github/last-commit/zulfame/lottery?style=flat-square&color=555555&labelColor=1a1a1a)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -182,7 +199,7 @@ fun_fact:    "I run a creative studio by day and ship clean code by night."
 <div align="center">
 
 <!-- ░░░ FOOTER WAVE ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=0,2,2,2,2&section=footer&text=Thanks%20for%20stopping%20by%20%F0%9F%96%A4&fontColor=e5e5e5&fontSize=22&fontAlignY=70&animation=twinkling" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0d0d0d&section=footer&text=Thanks%20for%20stopping%20by%20%F0%9F%96%A4&fontColor=e5e5e5&fontSize=22&fontAlignY=70&animation=twinkling" alt="footer" />
 
 **⭐ From [zulfame](https://github.com/zulfame) — feel free to star repos you like.**
 
