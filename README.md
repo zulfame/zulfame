@@ -6,11 +6,11 @@
 <!-- ░░░ HERO BANNER (animated wave, grayscale gradient) ░░░ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,2,2,2,2&text=Hi%2C%20I'm%20Alex&fontColor=e5e5e5&fontSize=68&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Building%20quiet%2C%20fast%20things&descSize=18&descAlignY=58&descColor=9a9a9a&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,2,2,2,2&text=Hi%2C%20I'm%20Zulfadli&fontColor=e5e5e5&fontSize=62&fontAlignY=38&desc=Make%20it%20Simple%2C%20but%20Significant&descSize=18&descAlignY=58&descColor=9a9a9a&animation=fadeIn" alt="header" />
 
 <!-- ░░░ TYPING INTRO (interactive typewriter) ░░░ -->
 <a href="https://github.com/zulfame">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A3A3A3&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;Open-Source+Contributor;Turning+coffee+into+clean+code;Minimalist+by+design%2C+maximalist+by+ambition" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A3A3A3&center=true&vCenter=true&width=620&lines=Web+Developer+%40+PT.+BPR+Bangunarta;WordPress+%26+Full-Stack+Enthusiast;Turning+coffee+into+clean+code;Make+it+Simple%2C+but+Significant" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,8 +19,8 @@
 <a href="https://github.com/zulfame"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://linkedin.com/in/zulfame"><img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://twitter.com/zulfame"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-3d3d3d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://yourwebsite.dev"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:hello@zulfame.id"><img src="https://img.shields.io/badge/Email-3d3d3d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://zulfame.id"><img src="https://img.shields.io/badge/Website-1a1a1a?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website"/></a>
 
 <br/><br/>
 
@@ -39,19 +39,19 @@
 ## `01` · About Me
 
 ```yaml
-name:        "Alex Monochrome"
-role:        "Full-Stack Software Engineer"
-location:    "Jakarta, Indonesia · GMT+7"
-current:     "Building developer tooling & clean UIs"
-learning:    ["Rust", "Distributed Systems", "WebGPU"]
-philosophy:  "Less, but better. Ship it, then polish it."
+name:        "Zulfadli Rizal"
+role:        "Web Developer @ PT. BPR Bangunarta"
+location:    "Indonesia · GMT+7"
+current:     "Building web apps, WordPress themes & internal tools"
+learning:    ["Modern JavaScript", "System Design", "Clean Architecture"]
+philosophy:  "Make it simple, but significant."
 fun_fact:    "I refactor code the way others meditate."
 ```
 
-- 🖤 &nbsp;I care about **performance, accessibility, and typography**.
+- 🖤 &nbsp;I care about **performance, accessibility, and clean UI**.
 - 🌒 &nbsp;I love **dark, quiet interfaces** and tools that get out of your way.
-- 🤝 &nbsp;Open to **collaboration** on open-source & side projects.
-- ✍️ &nbsp;Occasionally I write about **engineering craft** on my blog.
+- 🤝 &nbsp;Open to **collaboration** on web & open-source projects.
+- 🌐 &nbsp;More about me at **[zulfame.id](https://zulfame.id)**.
 
 <br/>
 
@@ -63,26 +63,27 @@ fun_fact:    "I refactor code the way others meditate."
 
 **Languages**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-2b2b2b?style=flat-square&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2b2b2b?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-2b2b2b?style=flat-square&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-2b2b2b?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-2b2b2b?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2b2b2b?style=flat-square&logo=css3&logoColor=white)
 
-**Frontend**
+**Frontend & CMS**
 
 ![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-1a1a1a?style=flat-square&logo=wordpress&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer%20Motion-1a1a1a?style=flat-square&logo=framer&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1a1a1a?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Backend & Data**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-0d0d0d?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=flat-square&logo=redis&logoColor=white)
 
 **DevOps & Tools**
 
