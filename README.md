@@ -15,10 +15,9 @@
 
 <br/>
 
-<!-- ░░░ SOCIAL / QUICK LINKS (monochrome badges) ░░░ -->
+<!-- ░░░ QUICK LINKS (monochrome badges) ░░░ -->
 <a href="https://github.com/zulfame"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/zulfame"><img src="https://img.shields.io/badge/LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/zulfame"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://www.jkv.co.id"><img src="https://img.shields.io/badge/CV%20Jendela%20Kreasi%20Visual-2b2b2b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CV Jendela Kreasi Visual"/></a>
 <a href="mailto:hello@zulfame.id"><img src="https://img.shields.io/badge/Email-3d3d3d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://zulfame.id"><img src="https://img.shields.io/badge/Website-1a1a1a?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website"/></a>
 
@@ -45,12 +44,12 @@ location:    "Indonesia · GMT+7"
 current:     "Building web apps, WordPress themes & internal tools"
 learning:    ["Modern JavaScript", "System Design", "Clean Architecture"]
 philosophy:  "Make it simple, but significant."
-fun_fact:    "I refactor code the way others meditate."
+fun_fact:    "I run a creative studio by day and ship clean code by night."
 ```
 
 - 🖤 &nbsp;I care about **performance, accessibility, and clean UI**.
 - 🌒 &nbsp;I love **dark, quiet interfaces** and tools that get out of your way.
-- 🤝 &nbsp;Open to **collaboration** on web & open-source projects.
+- 🎨 &nbsp;Founder of **[CV Jendela Kreasi Visual](https://www.jkv.co.id)** — bridging design & development.
 - 🌐 &nbsp;More about me at **[zulfame.id](https://zulfame.id)**.
 
 <br/>
