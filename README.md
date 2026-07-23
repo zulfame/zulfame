@@ -103,12 +103,12 @@ fun_fact:    "I run a creative studio by day and ship clean code by night."
 
 <div align="center">
 
-<!-- Stats card (monochrome) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zulfame&show_icons=true&hide_border=true&title_color=e5e5e5&icon_color=8b8b8b&text_color=9a9a9a&bg_color=0d0d0d&include_all_commits=true&count_private=true" alt="stats" />
-<!-- Top languages (monochrome) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulfame&layout=compact&hide_border=true&title_color=e5e5e5&text_color=9a9a9a&bg_color=0d0d0d&langs_count=8" alt="top-langs" />
+<!-- Profile metrics (shields — always available) -->
+<img src="https://img.shields.io/github/followers/zulfame?style=for-the-badge&color=1a1a1a&labelColor=0d0d0d&logo=github&logoColor=white&label=FOLLOWERS" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=zulfame&style=for-the-badge&color=1a1a1a&label=PROFILE+VIEWS" alt="views" />
+<img src="https://img.shields.io/github/stars/zulfame?style=for-the-badge&color=1a1a1a&labelColor=0d0d0d&logo=star&logoColor=white&label=TOTAL+STARS" alt="stars" />
 
-<br/>
+<br/><br/>
 
 <!-- Streak stats (monochrome) -->
 <img src="https://streak-stats.demolab.com?user=zulfame&hide_border=true&background=0d0d0d&ring=8b8b8b&fire=e5e5e5&currStreakLabel=e5e5e5&sideLabels=9a9a9a&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=6b6b6b&stroke=2b2b2b" alt="streak" />
@@ -119,11 +119,16 @@ fun_fact:    "I run a creative studio by day and ship clean code by night."
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## `04` · Trophies
+## `04` · Language Focus
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zulfame&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
+![JavaScript](https://img.shields.io/badge/JavaScript-2b2b2b?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-262626?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1f1f1f?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-141414?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
