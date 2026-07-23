@@ -14,7 +14,7 @@ snake, waving header) — jadi tetap hidup langsung di halaman profilmu.
 Cari & ganti di `README.md`:
 | Placeholder            | Ganti dengan                          |
 |------------------------|---------------------------------------|
-| `yourusername`         | Username GitHub-mu                    |
+| `zulfame`         | Username GitHub-mu                    |
 | `Alex` / nama & bio    | Nama & deskripsi kamu                 |
 | `you@example.com`      | Email kamu                            |
 | link social / project  | URL asli milikmu                      |
